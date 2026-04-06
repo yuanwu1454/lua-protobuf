@@ -6,7 +6,10 @@ https://luabinaries.sourceforge.net/download.html
 5. luarocks --lua-dir "E:\Lua" --lua-version 5.4 install luasocket
 
 6. 设置 LUA_PATH,LUA_CPATH, 
-以及用户变量的 Path C:\Users\14542\AppData\Roaming\luarocks\bin;E:\Lua
 
-LUA_CPATH E:\Lua\?.dll;E:\Lua\..\lib\lua\5.4\?.dll;E:\Lua\loadall.dll;.\?.dll;C:\Users\14542\AppData\Roaming\luarocks\lib\lua\5.4\?.dll
-LUA_PATH E:\Lua\lua\?.lua;E:\Lua\lua\?\init.lua;E:\Lua\?.lua;E:\Lua\?\init.lua;E:\Lua\..\share\lua\5.4\?.lua;E:\Lua\..\share\lua\5.4\?\init.lua;.\?.lua;.\?\init.lua;C:\Users\14542\AppData\Roaming\luarocks\share\lua\5.4\?.lua;C:\Users\14542\AppData\Roaming\luarocks\share\lua\5.4\?\init.lua
+以及用户变量的 Path C:\Users\Administrator\AppData\Roaming\luarocks\bin;E:\Lua
+
+LUA_CPATH E:\Lua\?.dll;E:\Lua\..\lib\lua\5.4\?.dll;E:\Lua\loadall.dll;.\?.dll;C:\Users\Administrator\AppData\Roaming\luarocks\lib\lua\5.4\?.dll
+LUA_PATH E:\Lua\lua\?.lua;E:\Lua\lua\?\init.lua;E:\Lua\?.lua;E:\Lua\?\init.lua;E:\Lua\..\share\lua\5.4\?.lua;E:\Lua\..\share\lua\5.4\?\init.lua;.\?.lua;.\?\init.lua;C:\Users\Administrator\AppData\Roaming\luarocks\share\lua\5.4\?.lua;C:\Users\Administrator\AppData\Roaming\luarocks\share\lua\5.4\?\init.lua
+
+x64 Native Tools Command Prompt for VS 2019
